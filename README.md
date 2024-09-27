@@ -1,28 +1,25 @@
-💐Resource flowers gift website for someone
+# floresamarillasycorazones
 
-# Flowers for Someone 🌸
+¡Hola! Soy [Mabel Olivera - @mabelolivera10]() y estoy encantada de conocerte.
 
-Welcome to Flowers for Someone! 🌼 This repository hosts the codebase for a charming website dedicated to the art of gifting flowers to your loved ones. Express your sentiments with the beauty of nature!
+## Acerca de mí👀
+Soy una persona apasionada por mi profesión, con una excelente capacidad de organización y facilidad para trabajar en equipo. Me considero altamente adaptable a diferentes entornos y siempre enfocada en alcanzar objetivos. Además, poseo conocimientos en diversos lenguajes de programación como Java, Visual.NET, PHP, entre otros. Tengo un gran interés en el desarrollo de software y el análisis de sistemas.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
+🌱 Actualmente, estoy enfocada en seguir aprendiendo y mejorando mis habilidades en distintos lenguajes de programación.
 
-## Introduction
+## Colaboración💞
+Estoy interesada en colaborar contigo en proyectos emocionantes y desafiantes. ¡Juntos podemos lograr grandes cosas!
 
-Flowers for Someone is your ultimate destination for heartfelt floral gifting. Whether it's a special occasion or just to brighten someone's day, our website offers a delightful of flower arrangements, bouquets, and personalized messages.
+## Contacto 📫
+Puedes encontrarme en mis redes sociales:
 
-## Technologies Used
+- [Facebook](https://www.facebook.com/mabelquispeolivera/)
+- [Instagram](https://www.instagram.com/mabelolivera10/)
+- [TikTok](https://www.tiktok.com/@encodedmabel)
+- [YouTube](https://www.youtube.com/@encodedmabel)
+- [LinkedIn](https://www.linkedin.com/in/mabelquispeolivera/)
+- [Twitter](https://twitter.com/mabel_Q_O)
+- [CodeOpen](https://codepen.io/mabelolivera10)
+- [Sitio Web](https://encoded.pe/)
 
-This project utilizes the following programming languages and technologies:
-- HTML
-- CSS
-- SCSS (Sass)
-- JavaScript
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone this repository to your local machine:
+¡Espero poder conectarme contigo pronto y colaborar en futuros proyectos! 😊
