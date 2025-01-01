@@ -3817,6 +3817,7 @@ textarea.form-control-lg {
   align-items: center;
 }
 
+
 .navbar-toggler {
   padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
   font-size: var(--bs-navbar-toggler-font-size);
@@ -10919,3 +10920,4 @@ header.masthead .bg-circle-4 {
     font-size: 4rem;
   }
 }
+
