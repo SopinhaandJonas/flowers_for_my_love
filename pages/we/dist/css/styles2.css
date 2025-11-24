@@ -3215,6 +3215,21 @@ textarea.form-control-lg {
   margin-left: 0;
 }
 
+.year {
+  font-size: 1.2rem;
+  font-style: normal;
+  font-weight: 400;
+
+}
+
+.year_tittle {
+  font-size: 25px;
+}
+.year1_section {
+  background-color: #fbf1cd;
+  border-radius: 15px;
+}
+
 .dropdown-menu {
   --bs-dropdown-zindex: 1000;
   --bs-dropdown-min-width: 10rem;

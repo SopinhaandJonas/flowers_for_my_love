@@ -56,6 +56,21 @@ main{
   transform: translateX(-50%) translateY(-45%);
 }
 
+.year {
+  font-size: 1.2rem;
+  font-style: normal;
+  font-weight: 400;
+
+}
+
+.year_tittle {
+  font-size: 25px;
+}
+.year1_section {
+  background-color: #fbf1cd;
+  border-radius: 15px;
+}
+
 .heart {
   position: fixed;
   width: 50px;
