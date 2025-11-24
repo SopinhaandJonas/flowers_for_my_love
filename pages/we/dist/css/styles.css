@@ -497,6 +497,27 @@ progress {
   font-weight: 300;
   line-height: 1.2;
 }
+
+
+span{
+    color: #d63384;
+}
+
+.year {
+  font-size: 1.2rem;
+  font-style: normal;
+  font-weight: 400;
+
+}
+
+.year_tittle {
+  font-size: 25px;
+}
+.year1_section {
+  background-color: #fbf1cd;
+  border-radius: 15px;
+}
+
 @media (min-width: 1200px) {
   .display-1 {
     font-size: 5rem;
